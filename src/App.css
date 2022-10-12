@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -35,4 +35,52 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Content{
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+.headingContainer{
+  height: 70px;
+  background-color: #cdcdce;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headingContainer_left{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.headingContainer_right{
+  display: flex;
+  padding:20px;
+  font-size:22px;
+  align-items: center;
+}
+
+.counter{
+  font-size: 25px;
+  padding: 10px;
+}
+
+.iconDiv{
+  border-radius: 4px;
+  cursor:pointer;
+  padding: 10px;
+}
+.iconDiv:hover{
+  box-shadow: 1px 1px 10px 0px #d91212bd;
+}
+
+.heading{
+  font-size: 27px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.quote{
+  font-size: 9px;
 }
