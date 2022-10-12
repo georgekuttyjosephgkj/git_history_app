@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/git_history_app/static/css/main.10827326.css",
-    "main.js": "/git_history_app/static/js/main.f0881344.js",
+    "main.js": "/git_history_app/static/js/main.40f7ab09.js",
     "static/js/787.22d2a24f.chunk.js": "/git_history_app/static/js/787.22d2a24f.chunk.js",
     "static/media/logo.svg": "/git_history_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/git_history_app/index.html",
     "main.10827326.css.map": "/git_history_app/static/css/main.10827326.css.map",
-    "main.f0881344.js.map": "/git_history_app/static/js/main.f0881344.js.map",
+    "main.40f7ab09.js.map": "/git_history_app/static/js/main.40f7ab09.js.map",
     "787.22d2a24f.chunk.js.map": "/git_history_app/static/js/787.22d2a24f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10827326.css",
-    "static/js/main.f0881344.js"
+    "static/js/main.40f7ab09.js"
   ]
 }
